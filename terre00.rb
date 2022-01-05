@@ -2,7 +2,9 @@
 
 #puts "hello world !"
 
-=begin    
+=begin  
+*********************** L’alphabet
+  
 Créez un programme qui affiche l’alphabet en lettres minuscules suivi d’un retour
  à la ligne.
 
